@@ -1,0 +1,39 @@
+{"abn":"91224315602","acn":"","entityName":"B.N HULL & P SARNE","businessType":"Other Partnership","entityTypeCode":"PTR","entityType":"Partnership","parentCompany":null,
+"trustABN":null,"trustName":null,"dateCommenced":"16/03/2011","businessContactPhone":null,"businessAddress":"","orgId":null,"abrCode":"PTR","path":"OAF","requireDG":"No",
+"streetNumber":null,"streetName":null,"streetType":null,"streetAddress":"","suburb":null,"state":null,"postcode":null,"directors":null,"numDirectors":0,"anzsicCodes":null}
+
+
+{"abn":"75818456675","acn":"","entityName":"QUEENSLAND STATE GOVERNMENT","businessType":"State Government Entity","entityTypeCode":"SGE","entityType":"Other","parentCompany":null,
+"trustABN":null,"trustName":null,"dateCommenced":"1/11/1999","businessContactPhone":null,"businessAddress":"","orgId":null,"abrCode":"SGE","path":"Pathway 2","requireDG":"No",
+"streetNumber":null,"streetName":null,"streetType":null,"streetAddress":"","suburb":null,"state":null,"postcode":null,"directors":null,"numDirectors":0,"anzsicCodes":null}
+
+
+
+
+
+http://bp.iapply.local/api/api/HarmonyWrapper?harmonyUrl=
+https://hosted.mastersoftgroup.com/harmony/rest/au/address&Authorization=Basic%20ZHdzdXNlcjpNV3Z4SDJLMWM0aHNnTFMxZm1LUXhtZ2xNT1F4dklQbg==
+&sourceOfTruth=AUPAF&fullAddress=3%206%20Myoporum%20STR%20Kambalda%20West%20WA%206442
+
+
+{"harmonyWrapperResult":[
+{"fullAddress":"L 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 4","eid":"635AD15666E87BA0938B59718928D8EE19F6D88DA573E0B3","lotNumber":"","flatUnitNumber":"","flatUnitType":"","floorLevelNumber":"4","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301012130113000113021331213310200113","DPID":"79490497","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"79490497","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"L 4 SE 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 4 SE 4","eid":"829168569474E8C1C04BC31D558FB5EECEE5E2877BE78D3E","lotNumber":"","flatUnitNumber":"4","flatUnitType":"SE","floorLevelNumber":"4","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301011121222230200230333031013213113","DPID":"47889629","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"47889629","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"L 11 SE 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 11 SE 4","eid":"8DE3CA335A4CBB413C16F4A09FBCE0B1DB43B5CE68280687","lotNumber":"","flatUnitNumber":"4","flatUnitType":"SE","floorLevelNumber":"11","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301011120211122222200332132233133013","DPID":"46748880","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"46748880","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"L 9 SE 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 9 SE 4","eid":"88A5224BA322B2B7779D9E828D625263C5DC8AEF5D31B75C","lotNumber":"","flatUnitNumber":"4","flatUnitType":"SE","floorLevelNumber":"9","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301012101102201302000331122230203013","DPID":"71381960","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"71381960","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"L 15 SE 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 15 SE 4","eid":"AE3E0E413B60ADF76BC917B9ACCB67159C2000AFCD79C853","lotNumber":"","flatUnitNumber":"4","flatUnitType":"SE","floorLevelNumber":"15","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301012202201101210212322221133000213","DPID":"82641725","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"82641725","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"L 4 SE 2 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"L 4 SE 2","eid":"44A898F14A0C088D335691AE33B5F124EA3968BDE8C8D31A","lotNumber":"","flatUnitNumber":"2","flatUnitType":"SE","floorLevelNumber":"4","floorLevelType":"L","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301013012003012001122301030211301013","DPID":"95095048","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"95095048","exception":null,"locality":"MELBOURNE","state":"VIC"},
+{"fullAddress":"G SHOP 4 500 COLLINS ST, MELBOURNE VIC 3000","country":null,"postcode":"3000","street2":null,"street":"COLLINS ST","streetNumber":"500","postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"G SHOP 4","eid":"7E298CE5A7314839ADDE7156206809403A278F73922C3313","lotNumber":"","flatUnitNumber":"4","flatUnitType":"SHOP","floorLevelNumber":"","floorLevelType":"G","streetSuffix":"","streetType":"ST","streetName":"COLLINS","attributes":{"Barcode":"1301011212011020212221320223010311013","DPID":"55136787","Bsp":"022","PAFPosition":"DOORSTOP"},"id":"55136787","exception":null,"locality":"MELBOURNE","state":"VIC"}
+]}
+
+
+3 6 Myoporum STR Kambalda West WA 6442
+
+
+{"harmonyWrapperResult":[{"fullAddress":"U 3 6 MYOPORUM ST, KAMBALDA WEST WA 6442","country":null,"postcode":"6442","street2":null,"street":"MYOPORUM ST","streetNumber":"6",
+"postal":"","postalType":"","postalNumber":"","buildingName":"","subdwelling":"U 3","eid":"3B3FA8A979AE798D9F0EF1263E9164F49388BFC212E54D56","lotNumber":"","flatUnitNumber":"3",
+"flatUnitType":"U","floorLevelNumber":"","floorLevelType":"","streetSuffix":"","streetType":"ST","streetName":"MYOPORUM",
+"attributes":{"Barcode":"1301011230221012222021313120230123113","DPID":"59835867","Bsp":"053","PAFPosition":"DOORSTOP"},"id":"59835867","exception":null,"locality":"KAMBALDA WEST",
+"state":"WA"}]}
+
+http://bp.iapply.local/#/form/59b9fda6873731288035498f/page/2/app/5b7a4908eb64c71d14c4b372
