@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+//using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
@@ -11,6 +11,7 @@ namespace WebApplication1.Controllers
         // GET: Dan
         public ActionResult Index()
         {
+// REMOVE LINQ
             return View();
         }
     }
